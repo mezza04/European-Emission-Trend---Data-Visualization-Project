@@ -87,7 +87,6 @@ Python · pandas · NumPy · Matplotlib · seaborn · scikit-learn · Tableau ·
 
 ## Licence
 
-- **Slides:** *"European Emission Trend 1990–2023"* by Chiara Mezzanzanica, licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 - **Data:** © European Union, Eurostat – reused under the [Eurostat licence policy](https://ec.europa.eu/eurostat/web/main/help/copyright-notice).
 
 ## Contact
