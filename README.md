@@ -68,8 +68,8 @@ Data visualization project analysing greenhouse gas emission trends across the E
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mezza04/Data_Visualization_Project.git
-   cd Data_Visualization_Project
+   git clone https://github.com/mezza04/European-Emission-Trend---Data-Visualization-Project.git
+   cd European-Emission-Trend---Data-Visualization-Project
    ```
 2. Install the dependencies:
    ```bash
